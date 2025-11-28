@@ -10,7 +10,7 @@ Como usar?
 git clone https://github.com/savioust/CNNMangoDB.git
 
 2 - Abra o terminal do Visual Studio Code (ou outro terminal) e execute o seguinte comando para instalar as dependências:
-cd ProjetoVisaoComputacional
+cd CNNMangoDB
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 cd .\scripts\
 python dataset_loader.py
 
-4 - Execute o script train.py diretamente da pasta ProjetoVisaoComputacional para treinar os modelos (AlexNet e EfficientNetB0) e gerar os pesos salvos.
+4 - Execute o script train.py diretamente da pasta CNNMangoDB para treinar os modelos (AlexNet e EfficientNetB0) e gerar os pesos salvos.
 cd ..
 python scripts\train.py
 
