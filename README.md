@@ -1,2 +1,1 @@
-# CNNMangoDB
-Detecção de pragas e doenças em folhas de mangueira usando CNNs (AlexNet e EfficientNetB0) em Python/PyTorch. Dataset de 2.400 imagens em 8 classes. Métricas monitoradas: acurácia, precisão, recall, F1-score e matriz de confusão. Treinamento com batch 32, 10 épocas, Adam.
+# ProjetoVisaoComputacional
