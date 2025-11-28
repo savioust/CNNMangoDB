@@ -7,7 +7,7 @@ O projeto utiliza Python e PyTorch, explorando duas arquiteturas de CNN: AlexNet
 Como usar?
 
 1 - Clonar o repositório do GitHub:
-git clone https://github.com/savioust/ProjetoVisaoComputacional.git
+git clone https://github.com/savioust/CNNMangoDB.git
 
 2 - Abra o terminal do Visual Studio Code (ou outro terminal) e execute o seguinte comando para instalar as dependências:
 cd ProjetoVisaoComputacional
