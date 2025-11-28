@@ -23,3 +23,6 @@ cd ..
 python scripts\train.py
 
 5 - Execute o script visualizer.py para gerar gráficos de evolução de loss, acurácia, F1-score e outras métricas.
+
+Link do dataset utilizado:
+https://www.kaggle.com/datasets/warcoder/mango-leaf-disease-dataset
